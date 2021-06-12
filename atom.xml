@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lwyzmun.org.cn</id>
     <title>莱芜一中模拟联合国</title>
-    <updated>2021-06-12T07:23:13.082Z</updated>
+    <updated>2021-06-12T10:03:14.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lwyzmun.org.cn"/>
     <link rel="self" href="https://lwyzmun.org.cn/atom.xml"/>
@@ -10,4 +10,22 @@
     <logo>https://lwyzmun.org.cn/images/avatar.png</logo>
     <icon>https://lwyzmun.org.cn/favicon.ico</icon>
     <rights>All rights reserved 2021, 莱芜一中模拟联合国</rights>
+    <entry>
+        <title type="html"><![CDATA[换届啦]]></title>
+        <id>https://lwyzmun.org.cn/post/huan-jie-la/</id>
+        <link href="https://lwyzmun.org.cn/post/huan-jie-la/">
+        </link>
+        <updated>2021-06-12T10:02:52.000Z</updated>
+        <content type="html"><![CDATA[<p>换届啦！社团由60级转交给61级！</p>
+<p>LWYZMUN 61级</p>
+<p>秘书长:崔言旭 刘璟冉</p>
+<p>学术总监:王锦睿 魏重阳</p>
+<p>外联总监:吕燕羽</p>
+<p>首席财务官:尹怡馨</p>
+<p>宣传总监:鞠玉洁 孙英卓 牛蒙悦</p>
+<p>技术总监:杨效一</p>
+<p>公关总监:彭玥涵</p>
+<p>会务总监:陈继远</p>
+]]></content>
+    </entry>
 </feed>
